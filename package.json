@@ -1,0 +1,12 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "A number guessing game where the computer randomly selects a number and the user has to guess it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "play": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
